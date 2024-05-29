@@ -8,8 +8,8 @@ document.addEventListener("DOMContentLoaded", function(){
     
     let pizzaFishie = new Pizza("La Fishie", "Tomate", "Fromage","Poisson");
 
-console.log(pizzaVeggie.name, pizzaVeggie.ingredient1, pizzaVeggie.ingredient2, pizzaVeggie.ingredient3);
-console.log(pizzaMeattie.name, pizzaMeattie.ingredient1, pizzaMeattie.ingredient2, pizzaMeattie.ingredient3);
-console.log(pizzaFishie.name, pizzaFishie.ingredient1, pizzaFishie.ingredient2, pizzaFishie.ingredient3);
+console.log(pizzaVeggie);
+console.log(pizzaMeattie);
+console.log(pizzaFishie);
 
 });
